@@ -1,1 +1,1 @@
-# distribuciones_dsicretas
+# distribuciones_discretas

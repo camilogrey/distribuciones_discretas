@@ -1,5 +1,7 @@
 # distribuciones_discretas
 
+1. Prob_Clicks_on_link_Bernoulli
+
 En el ejercicio de la funcion de probabilidad de Bernoulli, la distribucion de la probabilidad solo pueden tomar dos valores posibles, etiquetados como éxito (1) P o fracaso (0) P -1.
 
 1. Simula un click en un link de una publicación en twitter 

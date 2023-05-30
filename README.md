@@ -34,6 +34,8 @@ print(f"Proporción de clicks: {proporcion_clicks}")
 Binomial
 2. User_buy_based_Previous_conversion_rate
 
+Poisson
+3. Performance_2_ads_Poisson 
 
 
 

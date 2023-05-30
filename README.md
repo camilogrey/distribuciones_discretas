@@ -30,3 +30,10 @@ proporcion_clicks = num_clicks / num_simulaciones
 print(f"Número de simulaciones: {num_simulaciones}")
 print(f"Número de clicks: {num_clicks}")
 print(f"Proporción de clicks: {proporcion_clicks}")
+
+Binomial
+2. User_buy_based_Previous_conversion_rate
+
+
+
+
